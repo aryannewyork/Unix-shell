@@ -1,4 +1,15 @@
 
+# UNIX Shell
+
+This is a very simple UNIX shell written in C
+
+
+
+## Authors
+
+- [Aryan Shukla](https://www.github.com/aryannewyork)
+
+
 ## Deployment
 
 To deploy this project run
